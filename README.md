@@ -39,3 +39,5 @@ Below are the results of an example backtest:
 - CAGR Alpha: -6.03%
 - Win Perc 57.14%
 - Max Loss Perc: -9.65%
+
+This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, financial tax, legal or accounting advice. You should consult your own financial, tax, legal and accounting advisors before engaging in any transaction.
